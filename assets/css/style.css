@@ -51,29 +51,6 @@ nav {
     margin: 0px 50px 0 50px; 
    
   }
-
-  /* Container - Portfolio page */
-
-  .portfolio-container{
-    position: relative;
-      background-color: #dddddd;
-      height: 900px;
-      margin: 0 50px 0 50px;
-      top: 50px;
-     
-    }
-
-    /* Container - Contact page*/
-    
-    .contact-container{
-    position: relative;
-      background-color: #dddddd;
-      height: 600px;
-      margin: 0 50px 0 50px;
-      top: 25px;
-     
-    }
-
   /* About me card (index page)*/
 
   .card-body-index {
